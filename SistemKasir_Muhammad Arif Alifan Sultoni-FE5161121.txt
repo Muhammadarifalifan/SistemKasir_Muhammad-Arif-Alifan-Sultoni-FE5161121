@@ -1,0 +1,12 @@
+
+read AND write "masukkan username dan password"
+read AND write "input nama barang dan jumlah barang"
+read AND write "input harga barang"
+srote total nama barang,jumlah barang,harga barang with calculated "input nama barang,jumlah barang,harga barang"
+print total nama barang,jumlah barang,harga barang
+IF uang sesuai harga
+	memberikan barang yang dibeli
+ELSE	
+	read AND write "mendapatkan kembalian"
+END IF
+Print data 
